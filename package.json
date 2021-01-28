@@ -1,5 +1,24 @@
 {
-  "dependencies": {
-    "node-telegram-bot-api": "^0.51.0"
-  }
+    "dependencies": {
+        "node-telegram-bot-api": "^0.51.0"
+    },
+    "name": "simpleTelegramBot",
+    "description": "",
+    "version": "1.0.0",
+    "main": "app.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AmirUsef/simpleTelegramBot.git"
+    },
+    "keywords": [],
+    "author": "Usef",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AmirUsef/simpleTelegramBot/issues"
+    },
+    "homepage": "https://github.com/AmirUsef/simpleTelegramBot#readme"
 }
